@@ -73,7 +73,3 @@ If user send hamburger --> We ask him for McDonalds or BurgerKing?
 Every Restaurant has his own sticker set --> Each sticker has a seperate functionality
 
 ### Node Server:
-
-
-
-=======
