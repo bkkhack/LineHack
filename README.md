@@ -19,7 +19,7 @@ Describe your product or service idea to be developed on LINE platform*
 | Salinceva     | Business Logic    |   -               | -                             |   -   |
 | Aifarfa       | Developer         |   -               | -                             |   -   |
 | Parnaigon     | Designer          |   -               | -                             |   -   |
-| Rajul         | AI                |   -               | -                             |   -   |
+| Rajul         | AI                | rajulsri          | rajul09@gmail.com             | +66-985621073 |
 
 
 Explain briefly why we should pick you*
