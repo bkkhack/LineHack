@@ -11,14 +11,16 @@ LineMunch (?)
 
 Describe your product or service idea to be developed on LINE platform*
 
-Team members (Name (First and Last) | 2. Position (Product Owner/Manager, Designer, Developer) | 3. LINE ID | 4. E-mail | 5. Phone)
+## Team
+
 | Name (Github)        | Position           | LINE ID  | E-mail | Phone |
-| ------------- |-------------| -----|  -----| -----|
-|BerndErnst      | Product Owner | germanroberternst | germanroberternst@gmail.com  | - 
-| Salinceva      | Business Logic      |   -  | -    |   - |
-| Aifarfa | Developer       |   -  | -    |   - |
-| Parnaigon | Designer       |   -  | -    |   - |
-| Rajul | AI     |    -  |   -  | -    |   - |
+|: ----------- :|:-----------------:|: -----:|:  -----:|: -----:|
+| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com  | - |
+| Salinceva     | Business Logic    |   -  | -      |   - |
+| Aifarfa       | Developer         |   -  | -      |   - |
+| Parnaigon     | Designer          |   -  | -      |   - |
+| Rajul         | AI                |   -  | -      |   - |
+
 
 Explain briefly why we should pick you*
 
@@ -26,6 +28,10 @@ Upload product or service proposal
 
 
 ## Tasks
+
+__Warning:__ Line already plans this. Please check and think what does that mean for us:
+http://techsauce.co/news/lineman-beta-launch/
+
 Looking into the BUSINESS CONNECT API
 
 Line Criteria:  team strength, product/service idea, and overall service fit with LINE platform.
