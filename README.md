@@ -8,7 +8,12 @@ Product or service name*
 
 Describe your product or service idea to be developed on LINE platform*
 
-Team members
+Team members (Name (First and Last) | 2. Position (Product Owner/Manager, Designer, Developer) | 3. LINE ID | 4. E-mail | 5. Phone)
+1. 
+2.
+3.
+4.
+5.
 
 Explain briefly why we should pick you*
 
