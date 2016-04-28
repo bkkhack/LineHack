@@ -18,4 +18,34 @@ Explain briefly why we should pick you*
 
 Upload product or service proposal
 
+Looking into the BUSINESS CONNECT API
+
+Line Criteria:  team strength, product/service idea, and overall service fit with LINE platform.
+
+
+
+How we get the location of the user?
+1. Ask the user for Streetname/Postal Code
+2. Send Link to our Server --> Our server gets via HTML5 his geolocation --> Send it via Line Chat back to us --> We can process it
+3. Google Maps API?
+
+Wit.ai:
+What Keywords we want to react to? (For Example: Burger, Italian, Name of Restaurants, Dinner, Happy Hours, Breakfast, Promotion, Recently visited, new, popular)
+
+Keywords categories:
+Time,
+Kind of Food,
+Names (of restaurants)
+Recommendations and Reviews/Experiences
+
+Sticker:
+If user send a sushi sticker --> We give him the next sushi location.
+If user send hamburger --> We ask him for McDonalds or BurgerKing?
+Every Restaurant has his own sticker set --> Each sticker has a seperate functionality
+
+Node Server:
+
+
+
+
 
