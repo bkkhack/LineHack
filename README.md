@@ -2,29 +2,35 @@
 
 ## Registration:
 
-Team Name
+Team Name:
+__BkkHack__
 
 Product or service name*
+Eddee (?)
+LineMunch (?)
 
 Describe your product or service idea to be developed on LINE platform*
 
 Team members (Name (First and Last) | 2. Position (Product Owner/Manager, Designer, Developer) | 3. LINE ID | 4. E-mail | 5. Phone)
-1. 
-2.
-3.
-4.
-5.
+| Name (Github)        | Position           | LINE ID  | E-mail | Phone |
+| ------------- |-------------| -----|  -----| -----|
+|BerndErnst      | Product Owner | germanroberternst | germanroberternst@gmail.com  | - 
+| Salinceva      | Business Logic      |   -  | -    |   - |
+| Aifarfa | Developer       |   -  | -    |   - |
+| Parnaigon | Designer       |   -  | -    |   - |
+| Rajul | AI     |    -  |   -  | -    |   - |
 
 Explain briefly why we should pick you*
 
 Upload product or service proposal
 
+
+## Tasks
 Looking into the BUSINESS CONNECT API
 
 Line Criteria:  team strength, product/service idea, and overall service fit with LINE platform.
 
 ## Idea: Get Proposals (Eddee) or Send food?
-
 
 **use case: Accept user order via Line's message**
 
@@ -77,4 +83,4 @@ If user send a sushi sticker --> We give him the next sushi location.
 If user send hamburger --> We ask him for McDonalds or BurgerKing?
 Every Restaurant has his own sticker set --> Each sticker has a seperate functionality
 
-### Node Server:
+### Tech Stack
