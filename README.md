@@ -21,6 +21,32 @@ Line Criteria:  team strength, product/service idea, and overall service fit wit
 ## Idea: Get Proposals (Eddee) or Send food?
 
 
+**use case: Accept user order via Line's message**
+
+> "i'm so hungry"
+
+> "Want some food? yes/no"
+
+> "yes"
+
+> "what kind of food? (eg. pizza, burger, noodle)"
+
+> "pizza"
+
+> "[list of pizza menu TLDR;] (1,2,3,4...)"
+
+> "2"
+
+> "ok, please send your location"
+
+> "..."
+
+> [billing info] Confirm your order? (yes/no)"
+
+> "yes"
+
+> "Thanks, your pizza will be ready in 40min."
+
 ### Food delivery:
 * Management of food delivery: Your order is on the way, we are outside,  
 * Payment: how do you like to pay? (Linepay?)
@@ -50,3 +76,4 @@ Every Restaurant has his own sticker set --> Each sticker has a seperate functio
 
 
 
+=======
