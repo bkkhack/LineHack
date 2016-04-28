@@ -13,13 +13,13 @@ Describe your product or service idea to be developed on LINE platform*
 
 ## Team
 
-| Name (Github)        | Position           | LINE ID  | E-mail | Phone |
-|: ----------- :|:-----------------:|: -----:|:  -----:|: -----:|
-| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com  | - |
-| Salinceva     | Business Logic    |   -  | -      |   - |
-| Aifarfa       | Developer         |   -  | -      |   - |
-| Parnaigon     | Designer          |   -  | -      |   - |
-| Rajul         | AI                |   -  | -      |   - |
+| Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
+| -----------   |-----------------  | -----             |  -----                        | ----- |
+| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   -   |
+| Salinceva     | Business Logic    |   -               | -                             |   -   |
+| Aifarfa       | Developer         |   -               | -                             |   -   |
+| Parnaigon     | Designer          |   -               | -                             |   -   |
+| Rajul         | AI                |   -               | -                             |   -   |
 
 
 Explain briefly why we should pick you*
@@ -29,7 +29,8 @@ Upload product or service proposal
 
 ## Tasks
 
-__Warning:__ Line already plans this. Please check and think what does that mean for us:
+__Warning:__ Line already plans this. Please check and think what does that mean for us:   
+
 http://techsauce.co/news/lineman-beta-launch/
 
 Looking into the BUSINESS CONNECT API
