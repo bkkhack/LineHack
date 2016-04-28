@@ -33,7 +33,7 @@ Line Criteria:  team strength, product/service idea, and overall service fit wit
 
 > "pizza"
 
-> "[list of pizza menu TLDR;] (1,2,3,4...)"
+> "[list of pizza menu] TLDR; (1,2,3,4...)"
 
 > "2"
 
