@@ -30,7 +30,7 @@ Describe your product or service idea to be developed on LINE platform*
 
 ## Explain briefly why we should pick you*
 
-
+We are good
 
 
 ## Upload product or service proposal
