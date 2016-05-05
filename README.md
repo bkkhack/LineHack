@@ -16,15 +16,32 @@ Describe your product or service idea to be developed on LINE platform*
 | Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
 | -----------   |-----------------  | -----             |  -----                        | ----- |
 | BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   -   |
-| Salinceva     | Business Logic    |   -               | -                             |   -   |
+| Salinceva     | Business Logic    | superslug         | sal@inceva.co.th              |   -   |
 | Aifarfa       | Developer         |   -               | -                             |   -   |
 | Parnaigon     | Designer          |   -               | -                             |   -   |
 | Rajul         | AI                | rajulsri          | rajul09@gmail.com             | +66-985621073 |
 
 
-Explain briefly why we should pick you*
+## Explain briefly why we should pick you*
 
-Upload product or service proposal
+
+
+
+## Upload product or service proposal
+
+Introduction
+
+Project Goals
+
+Implementation 
+
+Timeline
+
+About Us
+
+
+APIs to use: LINE, Foursquare, Waze,
+
 
 
 ## Tasks
