@@ -6,20 +6,26 @@ Team Name:
 __BkkHack__
 
 Product or service name*
+
+- Terminus
+
+
 Eddee (?)
 LineMunch (?)
 
 Describe your product or service idea to be developed on LINE platform*
 
+- "Discovery" of places when you are already in a group to go to
+
+
 ## Team
 
 | Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
 | -----------   |-----------------  | -----             |  -----                        | ----- |
-| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   -   |
-| Salinceva     | Business Logic    | superslug         | sal@inceva.co.th              |   -   |
+| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   +66-8955264159   |
+| Salinceva     | Business Dev / Hype | superslug         | sal@inceva.co.th              |   +66-892081650   |
 | Aifarfa       | Developer         |   -               | -                             |   -   |
-| Parnaigon     | Designer          |   -               | -                             |   -   |
-| Rajul         | AI                | rajulsri          | rajul09@gmail.com             | +66-985621073 |
+| Rajul         | Data Engineer     | rajulsri          | rajul09@gmail.com             | +66-985621073 |
 
 
 ## Explain briefly why we should pick you*
