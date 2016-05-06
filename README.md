@@ -23,6 +23,7 @@ Terminus Meeting Bot radically simplifies the process of connecting and scheduli
 | Salinceva     | Business Dev / Hype 	| superslug         | sal@inceva.co.th            	| +66-892081650 |
 | Pasit Rattanathammakool (@aifarfa) | Developer         	| iamfar            | kzneko@gmail.com | +66-870231010 |
 | Rajul         | Data Engineer     	| rajulsri          | rajul09@gmail.com             | +66-985621073 |
+| JJMax75       | UX Advocate         | jjmax75           | behanj@gmail.com              | +66-870894606 |
 
 6. __Explain briefly why we should pick you__   
 Despite a plethora of “efficient” web-based scheduling tools, it is estimated that corporate/enterprise professionals waste nearly 5 hours every week trying to schedule meetings. Amortized over 1 year, thats nearly 260 hours wasted per employee per year. Clearly there has to be a better way.
