@@ -2,24 +2,20 @@
 
 ## Registration:
 
-Team Name:
-__BkkHack__
+1. __Team Name:__   
+Vision Quest
 
-Product or service name*
+2. __Please briefly describe your team__   
+A group of friends with great ideas and mad coding skills.
 
-- Terminus
+3. __Product or service name:__  
+Terminus Meeting Bot
 
+4. __Describe your product or service idea to be developed on LINE platform__   
+Planning sales meetings or spontanious get-togethers can be a huge hassle and colossal time waster for outbound sales teams and casual acquaintances. From finding a convenient location for everyone to sending out invites/directions everyone could use a tool to make the process easier.   
+Terminus Meeting Bot radically simplifies the process of connecting and scheduling meeting for 2 or more Business associates / friends who trying to find a ideal location and convenient time to meet. Terminus is an Intelligent Autonomous bot powered with LINE that does the heavy lifting in the background to automatically find an ideal location based on the criteria set by the organizers . Terminus offers an efficient responsible way to avoid repetitive tasks and proactively seek meeting points using real-time data from venues throughout the city. Terminus provides a stress-free experience that uses realtime traffic analysers and proximity notifications so you can focus on the important things. Leave the details to us and Find a location for a meeting 2x faster!
 
-Eddee (?)
-LineMunch (?)
-
-Describe your product or service idea to be developed on LINE platform*
-
-- "Discovery" of places when you are already in a group to go to
-
-
-## Team
-
+5. __Team Member__  
 | Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
 | -----------   |-----------------  | -----             |  -----                        | ----- |
 | BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   +66-8955264159   |
@@ -27,90 +23,29 @@ Describe your product or service idea to be developed on LINE platform*
 | Aifarfa       | Developer         |   -               | -                             |   -   |
 | Rajul         | Data Engineer     | rajulsri          | rajul09@gmail.com             | +66-985621073 |
 
+6. __Explain briefly why we should pick you__   
+Despite a plethora of “efficient” web-based scheduling tools, it is estimated that corporate/enterprise professionals waste nearly 5 hours every week trying to schedule meetings. Amortized over 1 year, thats nearly 260 hours wasted per employee per year. Clearly there has to be a better way.
+With over 580 Million global registered users, close to 220 Million active users and recent SME centric expansion such as LINE@, Terminus Bot seeks to seamlessly add a powerful new layer of convenience to the already ubiquitous social communications platform.
+Team Terminus consists of a perfect blend of cutting edge technologists and business development minds to bring a unique concept to life.
+Help us simplify scheduling events and meetings.
 
-## Explain briefly why we should pick you*
+7. __What do you expect from joining LINE HACK?__   
+We expect to take our concept and create a working proof-of-concept prototype. We are all intelligent tinkerers who find value in creating useful tool and from the value of networking with likeminded individuals and panel of judges/experts at the Hackathon.
 
-We are good
-
-
-## Upload product or service proposal
-
-Introduction
-
-Project Goals
-
-Implementation 
-
-Timeline
-
-About Us
-
-
-APIs to use: LINE, Foursquare, Waze,
-
+8. __Upload product or service proposal__    
+Should be finished on Friday ~5 pm
 
 
 ## Tasks
 
-__Warning:__ Line already plans this. Please check and think what does that mean for us:   
+## Line Criteria:    
+* team strength
+* product/service idea
+* overall service fit with LINE platform.
 
-http://techsauce.co/news/lineman-beta-launch/
-
-Looking into the BUSINESS CONNECT API
-
-Line Criteria:  team strength, product/service idea, and overall service fit with LINE platform.
-
-## Idea: Get Proposals (Eddee) or Send food?
-
-**use case: Accept user order via Line's message**
-
-> "i'm so hungry"
-
-> "Want some food? yes/no"
-
-> "yes"
-
-> "what kind of food? (eg. pizza, burger, noodle)"
-
-> "pizza"
-
-> "[list of pizza menu] TLDR; (1,2,3,4...)"
-
-> "2"
-
-> "ok, please send your location"
-
-> "..."
-
-> [billing info] Confirm your order? (yes/no)"
-
-> "yes"
-
-> "Thanks, your pizza will be ready in 40min."
-
-### Food delivery:
-* Management of food delivery: Your order is on the way, we are outside,  
-* Payment: how do you like to pay? (Linepay?)
-* Sending pictures as categories and the user can navigate through. Creating his own shopping cart.
-
-
-### How we get the location of the user?
-1. Ask the user for Streetname/Postal Code
-2. Send Link to our Server --> Our server gets via HTML5 his geolocation --> Send it via Line Chat back to us --> We can process it
-3. Google Maps API?
-
-### Wit.ai:
-What Keywords we want to react to? (For Example: Burger, Italian, Name of Restaurants, Dinner, Happy Hours, Breakfast, Promotion, Recently visited, new, popular)
-
-#### Keywords categories:
-* Time,
-* Kind of Food,
-* Names (of restaurants)
-* Recommendations and Reviews/Experiences
-
-### Sticker:
-If user send a sushi sticker --> We give him the next sushi location.
-If user send hamburger --> We ask him for McDonalds or BurgerKing?
-Every Restaurant has his own sticker set --> Each sticker has a seperate functionality
 
 ### Tech Stack
+* Node
+* Azure
+* Wit.ai
+* Line Business API
