@@ -49,4 +49,5 @@ Should be finished on Friday ~5 pm
 * Node
 * Azure
 * Wit.ai
+* GitHub
 * Line Business API
