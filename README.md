@@ -17,12 +17,12 @@ Terminus Meeting Bot radically simplifies the process of connecting and scheduli
 
 5. __Team Member__    
 
-| Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
-| -----------   |-----------------  | -----             |  -----                        | ----- |
-| BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   | +66-8955264159 |
-| Salinceva     | Business Dev / Hype | superslug         | sal@inceva.co.th            | +66-892081650  |
-| Aifarfa       | Developer         | iamfar            | kzneko@gmail.com              | +66-870231010 |
-| Rajul         | Data Engineer     | rajulsri          | rajul09@gmail.com             | +66-985621073 |
+| Name (Github) | Position          	| LINE ID           | E-mail                        | Phone |
+| -----------   |-----------------  	| -----             |  -----                        | ----- |
+| BerndErnst    | Product Owner     	| germanroberternst | germanroberternst@gmail.com   | +66-984384163 |
+| Salinceva     | Business Dev / Hype 	| superslug         | sal@inceva.co.th            	| +66-892081650 |
+| Aifarfa       | Developer         	| iamfar            | kzneko@gmail.com              | +66-870231010 |
+| Rajul         | Data Engineer     	| rajulsri          | rajul09@gmail.com             | +66-985621073 |
 
 6. __Explain briefly why we should pick you__   
 Despite a plethora of “efficient” web-based scheduling tools, it is estimated that corporate/enterprise professionals waste nearly 5 hours every week trying to schedule meetings. Amortized over 1 year, thats nearly 260 hours wasted per employee per year. Clearly there has to be a better way.
