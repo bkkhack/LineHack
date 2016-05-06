@@ -15,7 +15,8 @@ Terminus Meeting Bot
 Planning sales meetings or spontanious get-togethers can be a huge hassle and colossal time waster for outbound sales teams and casual acquaintances. From finding a convenient location for everyone to sending out invites/directions everyone could use a tool to make the process easier.   
 Terminus Meeting Bot radically simplifies the process of connecting and scheduling meeting for 2 or more Business associates / friends who trying to find a ideal location and convenient time to meet. Terminus is an Intelligent Autonomous bot powered with LINE that does the heavy lifting in the background to automatically find an ideal location based on the criteria set by the organizers . Terminus offers an efficient responsible way to avoid repetitive tasks and proactively seek meeting points using real-time data from venues throughout the city. Terminus provides a stress-free experience that uses realtime traffic analysers and proximity notifications so you can focus on the important things. Leave the details to us and Find a location for a meeting 2x faster!
 
-5. __Team Member__  
+5. __Team Member__    
+
 | Name (Github) | Position          | LINE ID           | E-mail                        | Phone |
 | -----------   |-----------------  | -----             |  -----                        | ----- |
 | BerndErnst    | Product Owner     | germanroberternst | germanroberternst@gmail.com   |   +66-8955264159   |
